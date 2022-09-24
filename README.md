@@ -9,3 +9,4 @@
 7. leap year or not
 8. sum of digits of a given number
 9. print elements of array in reverse order 
+10. Program to Store Information of Students Using Structure
