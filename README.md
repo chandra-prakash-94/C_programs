@@ -8,3 +8,4 @@
 6. number is positive or negative
 7. leap year or not
 8. sum of digits of a given number
+9. print elements of array in reverse order 
