@@ -11,3 +11,4 @@
 9. print elements of array in reverse order 
 10. Program to Store Information of Students Using Structure
 11. Create Custom header file
+12. C Program to print star pattern
