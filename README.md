@@ -14,3 +14,4 @@
 12. C Program to print star pattern
 13. Linked List in C
 14. Linear Binary Search in C
+15. Fibonacci Search
